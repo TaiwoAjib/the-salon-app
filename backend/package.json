@@ -1,0 +1,50 @@
+{
+  "name": "victoria-salon-backend",
+  "version": "1.0.0",
+  "description": "Backend for Victoria Braids & Weaves",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "start": "node dist/src/index.js",
+    "dev": "ts-node-dev src/index.ts",
+    "db:export": "tsx prisma/export-data.ts",
+    "db:import-excel": "tsx prisma/import-excel.ts",
+    "db:clean": "tsx prisma/clean-db.ts",
+    "build": "tsc"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "@types/bcryptjs": "^3.0.0",
+    "@types/jsonwebtoken": "^9.0.10",
+    "bcryptjs": "^3.0.3",
+    "cloudinary": "^2.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.2",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.12",
+    "openai": "^6.15.0",
+    "stripe": "^20.1.0",
+    "twilio": "^5.11.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/morgan": "^1.9.10",
+    "@types/multer": "^2.0.0",
+    "@types/node": "^22.10.5",
+    "@types/node-cron": "^3.0.11",
+    "@types/nodemailer": "^7.0.4",
+    "prisma": "^6.2.1",
+    "ts-node-dev": "^2.0.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}

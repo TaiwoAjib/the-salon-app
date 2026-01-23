@@ -1,0 +1,1343 @@
+{
+  "users": [
+    {
+      "id": "9b73dadb-7162-4b61-85f9-d5d8975d2fdf",
+      "fullName": "Victoria ",
+      "email": "victoria@victoria.com",
+      "phone": "+1 (362) 343-9227",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$8BeOZUW67s4zSNv/rq.iw.MFz2.q7KK65Fd3u0l3tQM2f4qiJfaT2",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:28:18.362Z",
+      "updatedAt": "2026-01-09T13:28:18.362Z"
+    },
+    {
+      "id": "a2ca75d1-60e6-4165-b758-fd38b77d9ae5",
+      "fullName": "Admin User",
+      "email": "admin@victoria.com",
+      "phone": "08032431784",
+      "address": "Salon HQ",
+      "profileImage": "https://res.cloudinary.com/dfibvxrcd/image/upload/v1767786311/victoria-salon/profiles/profileImage-1767786311071_loxwgw.jpg",
+      "passwordHash": "$2b$10$b.8ohZsW1C.2PolCPaMl5OY51hLBX5O2.BrC6bRYNkbVySBkEZqUW",
+      "role": "admin",
+      "createdAt": "2026-01-07T11:03:59.253Z",
+      "updatedAt": "2026-01-07T11:45:34.776Z"
+    },
+    {
+      "id": "8a4b01ed-89ac-443a-8a42-32b470b5662d",
+      "fullName": "Lovelyn",
+      "email": "lovelyn@victoria.com",
+      "phone": "+1 (362) 343-9228",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$wwkimnWfK0bTYUlTKfroT.mO5nGLo/T407g0mrR1MMIe5eO1Y0C5.",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:29:04.115Z",
+      "updatedAt": "2026-01-09T13:29:04.115Z"
+    },
+    {
+      "id": "5b3a17bf-666d-448d-a982-cb9b0fb7be4e",
+      "fullName": "Ph ",
+      "email": "ph@victoria.com",
+      "phone": "+1 (362) 343-9217",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$reecbQu3hCs7GSvmMoRM1u48eUgivTQZOt7Gx5m5lRKnqVNFHCBfi",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:16:54.251Z",
+      "updatedAt": "2026-01-09T13:16:54.251Z"
+    },
+    {
+      "id": "bde6afce-933d-40d8-94a9-08bfe10ec739",
+      "fullName": "Mama",
+      "email": "mama@victoria.com",
+      "phone": "+1 (362) 343-9218",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$raUcJFr4PzHiAiYbqZotfOA3quF5JJBzflP/GwKTH2bKdNyzzVb1e",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:19:13.247Z",
+      "updatedAt": "2026-01-09T13:19:13.247Z"
+    },
+    {
+      "id": "172cdf90-6db8-4451-ba74-4f17f868a702",
+      "fullName": "Ami",
+      "email": "ami@victoria.com",
+      "phone": "+1 (362) 343-9219",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$dpTgEDI.NIdZO./sLrKCOu/4vMMKUeG3YreXjF5Dv1ZNo9S42XnZ.",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:19:57.803Z",
+      "updatedAt": "2026-01-09T13:19:57.803Z"
+    },
+    {
+      "id": "5335a8f1-1c9c-4111-9885-4a9fa9060dc1",
+      "fullName": "Mouna",
+      "email": "mouna@victoria.com",
+      "phone": "+1 (362) 343-9220",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$H0CV2nxK8ph9xdBPVZwdo.t3COz6z6usEHockbCLkIqI3j3IaS6QK",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:20:45.909Z",
+      "updatedAt": "2026-01-09T13:20:45.909Z"
+    },
+    {
+      "id": "96c530bb-6a23-41ec-97bd-be364a150401",
+      "fullName": "Braider 1",
+      "email": "braider1@victoria.com",
+      "phone": "+1 (362) 343-9221",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$M43N34NObADEZvDcZaZOSOaEAc/4MMPCwswMVrvGfhZljeP4OhUQu",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:23:56.020Z",
+      "updatedAt": "2026-01-09T13:23:56.020Z"
+    },
+    {
+      "id": "2edeb2c6-7669-469b-a747-dc13ad420317",
+      "fullName": "Braider 2",
+      "email": "braider2@victoria.com",
+      "phone": "+1 (362) 343-9222",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$e6QtjBnNcOAl5/b8Tl7kuuuz5uupbem7TGVoVEVQ.ucldQL86NtGG",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:24:37.581Z",
+      "updatedAt": "2026-01-09T13:24:37.581Z"
+    },
+    {
+      "id": "580e9c8c-3b1a-40c4-a34b-085469b45f24",
+      "fullName": "Semita",
+      "email": "semita@victoria.com",
+      "phone": "+1 (362) 343-9223",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$fdNc9btbr/sOV6ME3bMdh.t1aXi.7WsCd2lPxWvnpb./GhF5utUeC",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:25:13.647Z",
+      "updatedAt": "2026-01-09T13:25:13.647Z"
+    },
+    {
+      "id": "71bdc97d-c73c-4086-8d5f-faa4df5b20ef",
+      "fullName": "Rebecca",
+      "email": "rebecca@victoria.com",
+      "phone": "+1 (362) 343-9224",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$doH64xD4QGDeGRUup80H6eRvkQytcGNi/gX3C3z2CgjZMGsy1xV86",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:25:51.200Z",
+      "updatedAt": "2026-01-09T13:25:51.200Z"
+    },
+    {
+      "id": "3c9c8b13-2c9c-4c07-a5e5-0a54886bf7f7",
+      "fullName": "Dawnel ",
+      "email": "dawnel@victoria.com",
+      "phone": "+1 (362) 343-9225",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$qBhbdRfYEIKBigmAtZ9.Ye3aI9Wfsx5Uc3fZuxE6GYbFs9tp7/g8O",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:26:35.477Z",
+      "updatedAt": "2026-01-09T13:26:35.477Z"
+    },
+    {
+      "id": "b1c9c44b-1a6e-4657-9b96-3a5ec4be468f",
+      "fullName": "Cherifa",
+      "email": "cherifa@victoria.com",
+      "phone": "+1 (362) 343-9226",
+      "address": "123 Salon Street",
+      "profileImage": null,
+      "passwordHash": "$2b$10$60XOO7s.TtFD2Ybgwta7JOld44Ozod1bp9pa2jEwl4tNpsQ9u0F1K",
+      "role": "stylist",
+      "createdAt": "2026-01-09T13:27:25.662Z",
+      "updatedAt": "2026-01-09T13:27:25.662Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "name": "Small Lemonade",
+      "createdAt": "2026-01-09T13:07:37.570Z"
+    },
+    {
+      "id": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "name": "Small Knotless",
+      "createdAt": "2026-01-09T13:07:39.802Z"
+    },
+    {
+      "id": "f36940c7-4d09-4502-a2a5-f849e006e165",
+      "name": "Soft Locs (without hair)",
+      "createdAt": "2026-01-09T13:07:41.249Z"
+    },
+    {
+      "id": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "name": "Middle Part Cornrows",
+      "createdAt": "2026-01-09T13:07:43.245Z"
+    },
+    {
+      "id": "14d1afd0-1e6e-43e4-9dad-ac2e4771369a",
+      "name": "Small Medium Knotless",
+      "createdAt": "2026-01-09T13:07:47.100Z"
+    },
+    {
+      "id": "6131b5ce-9790-41a0-bf6a-dbb4baecb04a",
+      "name": "Tribal Braids (Cornrows and Box Braids at the Back)",
+      "createdAt": "2026-01-09T13:07:52.891Z"
+    },
+    {
+      "id": "ca4f6478-f73f-483b-b57c-1997056ab162",
+      "name": "Xtra Small Knotless",
+      "createdAt": "2026-01-09T13:08:00.168Z"
+    },
+    {
+      "id": "d6f6b301-87cb-4f0f-9db2-ff66a96d1634",
+      "name": "Jumbo Knotless",
+      "createdAt": "2026-01-09T13:08:01.628Z"
+    },
+    {
+      "id": "364b4dfa-284c-4ba4-9f25-115f9820d0e4",
+      "name": "Small Box Braid",
+      "createdAt": "2026-01-09T13:08:03.279Z"
+    },
+    {
+      "id": "94e052a8-8fde-41ca-86be-b6d959df27dd",
+      "name": "Medium Box Braids",
+      "createdAt": "2026-01-09T13:08:04.574Z"
+    },
+    {
+      "id": "d0ff0d48-4ee5-4543-bbea-79d6535a9c28",
+      "name": "Butterfly Locs",
+      "createdAt": "2026-01-09T13:08:05.869Z"
+    },
+    {
+      "id": "085bcab0-4262-44ed-91b9-5d25b2960b23",
+      "name": "Passion Twist",
+      "createdAt": "2026-01-09T13:08:07.217Z"
+    },
+    {
+      "id": "0f76858d-daa8-44fa-b775-40e8d4210252",
+      "name": "Crochet",
+      "createdAt": "2026-01-09T13:08:08.454Z"
+    },
+    {
+      "id": "2e759c8b-26ce-484c-8980-a8eac1a51fde",
+      "name": "Side Head Shaved Top Braids (Small Size)",
+      "createdAt": "2026-01-09T13:08:10.059Z"
+    },
+    {
+      "id": "12b8d5dd-e22d-4280-8b3d-97a6065dee94",
+      "name": "Medium Knotless",
+      "createdAt": "2026-01-09T13:08:11.232Z"
+    },
+    {
+      "id": "2e32847b-d132-44b5-ac59-ce523848c093",
+      "name": "Medium Lemonade",
+      "createdAt": "2026-01-09T13:08:12.509Z"
+    },
+    {
+      "id": "be55f864-31bb-44bf-b717-c8b3aa9dd809",
+      "name": "Coilery Braids",
+      "createdAt": "2026-01-09T13:08:13.709Z"
+    },
+    {
+      "id": "75542adb-dfe6-4a86-8a37-e7d189d75fd3",
+      "name": "Criss Cross Tribal Braids",
+      "createdAt": "2026-01-09T13:08:15.258Z"
+    },
+    {
+      "id": "df2e1780-af0b-4897-81c8-d4a28888120d",
+      "name": "Design Stitch Tribal Braids",
+      "createdAt": "2026-01-09T13:08:16.431Z"
+    },
+    {
+      "id": "93d61911-6471-44a8-b60b-48571a7c2d6e",
+      "name": "8 Stitch Braids",
+      "createdAt": "2026-01-09T13:08:17.695Z"
+    },
+    {
+      "id": "20cd46fa-6d4a-4f5a-9ff4-42b82e997df9",
+      "name": "Rope Marley Twist",
+      "createdAt": "2026-01-09T13:08:19.053Z"
+    },
+    {
+      "id": "d540c632-532b-4735-af8d-59d3d3e9f9f1",
+      "name": "6 Stitch Braids",
+      "createdAt": "2026-01-09T13:08:20.813Z"
+    },
+    {
+      "id": "e52eec0c-c543-4460-a39d-174c79fad81b",
+      "name": "4 Stitch Braids",
+      "createdAt": "2026-01-09T13:08:22.248Z"
+    },
+    {
+      "id": "905117e1-8491-411c-9e8f-27c4e880da8b",
+      "name": "10 Stitch Braids",
+      "createdAt": "2026-01-09T13:08:24.205Z"
+    },
+    {
+      "id": "5718a35f-e4ae-4c65-acd3-cee7d19aa9c3",
+      "name": "12 Stitch Braids",
+      "createdAt": "2026-01-09T13:08:26.995Z"
+    },
+    {
+      "id": "d41a2e76-0191-45b1-9865-76c9c594c983",
+      "name": "14 Stitch Braids",
+      "createdAt": "2026-01-09T13:08:28.445Z"
+    },
+    {
+      "id": "c78fbcc1-fcc7-4ff6-9f14-d63385b354f3",
+      "name": "Knotless Boho Bob",
+      "createdAt": "2026-01-09T13:08:29.645Z"
+    },
+    {
+      "id": "5c1c80e1-f6e2-488e-9d18-856b99576a1e",
+      "name": "Stitch Heart Lemonade",
+      "createdAt": "2026-01-09T13:08:30.919Z"
+    },
+    {
+      "id": "9ef9ccfb-ec2c-42f0-b4e2-2520f8addfb9",
+      "name": "Small Senegalese Braids",
+      "createdAt": "2026-01-09T13:08:32.144Z"
+    },
+    {
+      "id": "f2922d85-8de1-45aa-9169-c045204c6b00",
+      "name": "Knotless Bob",
+      "createdAt": "2026-01-09T13:08:33.602Z"
+    },
+    {
+      "id": "00fb694e-3339-4c3b-a1df-98e5060bf2f7",
+      "name": "Stitch Weave",
+      "createdAt": "2026-01-09T13:08:34.829Z"
+    },
+    {
+      "id": "04dea533-e006-47d3-a14b-97d39312da25",
+      "name": "Large Knotless",
+      "createdAt": "2026-01-09T13:08:36.193Z"
+    },
+    {
+      "id": "3b3eb3e6-519b-48a0-a068-3c31479275c3",
+      "name": "Medium Gypsy Braids",
+      "createdAt": "2026-01-09T13:08:37.437Z"
+    },
+    {
+      "id": "0b6439ea-3479-464d-bc7e-a77b42b717a9",
+      "name": "Small Medium Gypsy Braids",
+      "createdAt": "2026-01-09T13:08:38.669Z"
+    },
+    {
+      "id": "fabadd8c-2c2a-4131-a2f7-7b448d469201",
+      "name": "Small Gypsy Knotless Braid",
+      "createdAt": "2026-01-09T13:08:40.160Z"
+    },
+    {
+      "id": "4b0bdf73-6970-4279-bf8b-cfe96ae64974",
+      "name": "Extra Small Gypsy Knotless Braid",
+      "createdAt": "2026-01-09T13:08:41.873Z"
+    },
+    {
+      "id": "30ccb33a-01fb-4065-b8cd-3d0b8d30f1df",
+      "name": "Victoria Luxury Braids",
+      "createdAt": "2026-01-09T13:08:43.056Z"
+    },
+    {
+      "id": "cba4c1cf-a805-4c82-9981-c6e48a7448ce",
+      "name": "Small Island Twist",
+      "createdAt": "2026-01-09T13:08:44.239Z"
+    },
+    {
+      "id": "a6357bbc-321a-42ba-805e-3a5e6153e3a1",
+      "name": "1 on 1 Stitch Training Class",
+      "createdAt": "2026-01-09T13:08:45.713Z"
+    },
+    {
+      "id": "eb152d36-d0d6-48a7-a74a-dbb17f443a71",
+      "name": "Medium Island Twist",
+      "createdAt": "2026-01-09T13:08:46.999Z"
+    },
+    {
+      "id": "d9b7baec-3b96-4c8b-81a0-5f7ef245cb24",
+      "name": "Small Medium Island Twist",
+      "createdAt": "2026-01-09T13:08:48.300Z"
+    },
+    {
+      "id": "7b99b643-6f7c-4d5b-8176-9d901fa18fe9",
+      "name": "Large Island Twist",
+      "createdAt": "2026-01-09T13:08:49.578Z"
+    },
+    {
+      "id": "89967b02-6e84-4fbb-b5eb-2103bebe10ce",
+      "name": "Large Bohemian",
+      "createdAt": "2026-01-09T13:08:50.793Z"
+    },
+    {
+      "id": "3c6f2b1e-bff7-42a7-9c52-435e9fea2f58",
+      "name": "Small Medium Bohemian",
+      "createdAt": "2026-01-09T13:08:51.997Z"
+    },
+    {
+      "id": "4d8d1356-6b59-4ae4-9afa-6ca8310eaee6",
+      "name": "Small Bohemian",
+      "createdAt": "2026-01-09T13:08:53.378Z"
+    },
+    {
+      "id": "c9aefd85-385f-4743-a3fa-f8818fb0052e",
+      "name": "Medium/Medium Large Bohemian",
+      "createdAt": "2026-01-09T13:08:54.681Z"
+    },
+    {
+      "id": "22c1ca98-e366-4225-83db-36f9bc881bf0",
+      "name": "Medium Large Knotless",
+      "createdAt": "2026-01-09T13:08:56.206Z"
+    },
+    {
+      "id": "d90391b0-a1cb-47b3-b90f-8fa9c2e8d9d1",
+      "name": "Medium/Medium Large Senegalese Twist",
+      "createdAt": "2026-01-09T13:08:59.436Z"
+    },
+    {
+      "id": "d39bf831-4cf4-4b49-adac-c8294685ec8c",
+      "name": "Small Medium Senegalese",
+      "createdAt": "2026-01-09T13:09:00.724Z"
+    },
+    {
+      "id": "da32eb82-09f8-4a96-895e-9e06e3597e7a",
+      "name": "Small Victoria French Curls",
+      "createdAt": "2026-01-09T13:09:02.000Z"
+    },
+    {
+      "id": "1e99b14e-706a-4f6a-9e01-6155b80d8bf3",
+      "name": "Small Medium Victoria French Curls",
+      "createdAt": "2026-01-09T13:09:03.293Z"
+    },
+    {
+      "id": "6802fcd0-e788-4847-a84b-bfbcd30f1f7b",
+      "name": "Medium Victoria French Curls",
+      "createdAt": "2026-01-09T13:09:04.575Z"
+    },
+    {
+      "id": "a77dcf12-d863-4fae-9506-1b940503cbd2",
+      "name": "Flipover Tribal Braids",
+      "createdAt": "2026-01-09T13:09:05.886Z"
+    },
+    {
+      "id": "ff792ecc-8284-4eaf-9cac-d0b24e81fbf8",
+      "name": "Microlocs Retie",
+      "createdAt": "2026-01-09T13:09:07.134Z"
+    },
+    {
+      "id": "11329c44-fd0d-424e-968f-56e68f9c4d6f",
+      "name": "Microlocs Installation",
+      "createdAt": "2026-01-09T13:09:08.420Z"
+    },
+    {
+      "id": "ca920ac9-cc90-4948-a691-2e728c7670b7",
+      "name": "Microlocs Consultation",
+      "createdAt": "2026-01-09T13:09:09.685Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "name": "Butt length",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:02.786Z"
+    },
+    {
+      "id": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "name": "Mid back",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:06.131Z"
+    },
+    {
+      "id": "58eacf8d-e748-47aa-a704-ca3ce7f1a7e8",
+      "name": "Waistline",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:07.283Z"
+    },
+    {
+      "id": "2f85365f-02bc-461e-9828-2fffe1762a30",
+      "name": "Bob length",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:08.499Z"
+    },
+    {
+      "id": "8069115e-6798-4999-9d37-f1af4f704037",
+      "name": "Shoulder length",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:09.585Z"
+    },
+    {
+      "id": "85caafbb-4fc4-4b68-9111-6ddc525ccf7e",
+      "name": "Medium",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:10.738Z"
+    },
+    {
+      "id": "b40798e7-3143-46b2-a856-167b71774a42",
+      "name": "Small medium",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:11.935Z"
+    },
+    {
+      "id": "5f104b97-21b5-47cd-a156-64fd03c45380",
+      "name": "Large",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:13.040Z"
+    },
+    {
+      "id": "4ff009d4-995c-475e-bf4b-2a0e5eee5f9a",
+      "name": "Looped",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:14.188Z"
+    },
+    {
+      "id": "91381509-0d13-4292-88dc-1df00dcc61ab",
+      "name": "Hook and latched",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:15.385Z"
+    },
+    {
+      "id": "276ee5b8-f7da-4727-91f9-cac39ed5526a",
+      "name": "Any Length",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:17.748Z"
+    },
+    {
+      "id": "563a459f-bc51-4d28-94d7-310346915f5f",
+      "name": "Bun",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:20.304Z"
+    },
+    {
+      "id": "c971f9af-b4b3-4e9d-8586-cb98357f9f54",
+      "name": "Small Medium",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:21.711Z"
+    },
+    {
+      "id": "fbc5e18c-245f-42a8-a808-2ea4630f4837",
+      "name": "Small",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:22.912Z"
+    },
+    {
+      "id": "5b69d838-f272-4e02-b6df-081b17dd56f6",
+      "name": "With Beads",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:24.080Z"
+    },
+    {
+      "id": "ed8c623a-f872-4816-9c66-e857ba26a38d",
+      "name": "Without Beads",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:25.363Z"
+    },
+    {
+      "id": "690591f8-272c-47f0-9b72-8cc46b90112b",
+      "name": "Butt",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:26.463Z"
+    },
+    {
+      "id": "90c3304f-7f53-46bc-ac6c-f1ef3eda3e44",
+      "name": "Starter course",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:29.010Z"
+    },
+    {
+      "id": "459561b7-5913-4772-93d9-0904b2df541b",
+      "name": "Waist length",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:30.179Z"
+    },
+    {
+      "id": "a26d4074-1ee1-4c2e-87ce-ad4c848c9239",
+      "name": "Shoulder/mid length",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:31.766Z"
+    },
+    {
+      "id": "171e035b-a6a7-44fe-84e6-9b6169c4b928",
+      "name": "Mid back/shoulder length",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:32.864Z"
+    },
+    {
+      "id": "d9d63d96-1dfe-47aa-8d25-3c02af6559a2",
+      "name": "Waist",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:34.250Z"
+    },
+    {
+      "id": "bc2fe082-42a2-493f-86af-91412b0d746b",
+      "name": "Mid back/shoulder",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:35.768Z"
+    },
+    {
+      "id": "0f301b96-2024-456c-8043-31fb603c5c64",
+      "name": "consultation",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:38.016Z"
+    },
+    {
+      "id": "665ac249-b2b6-45a3-bc5d-7e5bcc7c7be6",
+      "name": "Retie",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:39.280Z"
+    },
+    {
+      "id": "8b102956-1a7b-451a-a521-fdbd8f498f10",
+      "name": "Microlocs",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:13:40.513Z"
+    }
+  ],
+  "stylists": [
+    {
+      "id": "536920fa-fc86-4349-9eb8-0a5ffd234fdc",
+      "userId": "5b3a17bf-666d-448d-a982-cb9b0fb7be4e",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:16:54.722Z"
+    },
+    {
+      "id": "04b3391b-2d01-4fc7-851c-02af2525fde9",
+      "userId": "bde6afce-933d-40d8-94a9-08bfe10ec739",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:19:14.205Z"
+    },
+    {
+      "id": "2adbdb25-f4dd-429a-840e-7fb2486f6203",
+      "userId": "172cdf90-6db8-4451-ba74-4f17f868a702",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:19:58.851Z"
+    },
+    {
+      "id": "a7d00054-d996-41e8-9380-7c504f382ebe",
+      "userId": "5335a8f1-1c9c-4111-9885-4a9fa9060dc1",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:20:47.489Z"
+    },
+    {
+      "id": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "userId": "96c530bb-6a23-41ec-97bd-be364a150401",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:23:56.253Z"
+    },
+    {
+      "id": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "userId": "2edeb2c6-7669-469b-a747-dc13ad420317",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:24:37.804Z"
+    },
+    {
+      "id": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "userId": "580e9c8c-3b1a-40c4-a34b-085469b45f24",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:25:14.143Z"
+    },
+    {
+      "id": "8e8b5926-0c75-419e-bd43-0c4c6f016672",
+      "userId": "71bdc97d-c73c-4086-8d5f-faa4df5b20ef",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:25:51.664Z"
+    },
+    {
+      "id": "f0a77b81-4e9e-422e-acb0-8818dcfaabfe",
+      "userId": "3c9c8b13-2c9c-4c07-a5e5-0a54886bf7f7",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:26:36.099Z"
+    },
+    {
+      "id": "b94203ee-4c1d-4c78-8e02-e824e76e449c",
+      "userId": "b1c9c44b-1a6e-4657-9b96-3a5ec4be468f",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:27:25.914Z"
+    },
+    {
+      "id": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "userId": "9b73dadb-7162-4b61-85f9-d5d8975d2fdf",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:28:19.307Z"
+    },
+    {
+      "id": "3664d7f2-e65e-4ca6-9f92-63b6883d9961",
+      "userId": "8a4b01ed-89ac-443a-8a42-32b470b5662d",
+      "skillLevel": "Intermediate",
+      "isActive": true,
+      "createdAt": "2026-01-09T13:29:04.797Z"
+    }
+  ],
+  "stylistPricing": [
+    {
+      "id": "222c4354-7a86-4e38-beb8-0a3cd2d37a99",
+      "stylistId": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "350",
+      "durationMinutes": 60
+    },
+    {
+      "id": "b988b35d-f628-49af-93c1-a37eaab441f9",
+      "stylistId": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "350",
+      "durationMinutes": 60
+    },
+    {
+      "id": "1c619307-52ef-4bc4-8b83-a3f7590a5c3f",
+      "stylistId": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "350",
+      "durationMinutes": 60
+    },
+    {
+      "id": "a2a261c0-06da-4c3a-afc7-7efbaa08f63d",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "8110a860-97bf-4cbd-80f7-f5b7d1bac5c0",
+      "stylistId": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "c7641064-f4f1-4376-89d0-9c401bd31411",
+      "stylistId": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "1f7a6062-0787-4177-ac52-403234fbd097",
+      "stylistId": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "6babce84-1e32-4b48-ac01-a284c1e99063",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "450",
+      "durationMinutes": 60
+    },
+    {
+      "id": "e4c7b0f9-d002-4981-a833-3c2b3ce67003",
+      "stylistId": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "450",
+      "durationMinutes": 60
+    },
+    {
+      "id": "4de2fed1-070f-4d40-b69a-da2c76deb954",
+      "stylistId": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "450",
+      "durationMinutes": 60
+    },
+    {
+      "id": "4c47ead6-6c2f-4839-88c9-30e8730946d3",
+      "stylistId": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "450",
+      "durationMinutes": 60
+    },
+    {
+      "id": "06b34c84-39d8-4629-b110-78203ed5ee2b",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "ee494956-c88a-4d0b-9a44-01bd1dfd93f9",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "4d6b40ed-bdc2-47c2-a1f3-ed573ccef200",
+      "stylistId": "536920fa-fc86-4349-9eb8-0a5ffd234fdc",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "03d6bfcf-b0e6-40c8-927b-ac0d7355ca9a",
+      "stylistId": "536920fa-fc86-4349-9eb8-0a5ffd234fdc",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "01e92af3-add3-4c90-aee7-75e2758a76e2",
+      "stylistId": "536920fa-fc86-4349-9eb8-0a5ffd234fdc",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "e03a9a8e-74ad-4f53-a105-72e8c547e45b",
+      "stylistId": "04b3391b-2d01-4fc7-851c-02af2525fde9",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "06fcccb4-387a-45eb-8172-e8d807cfeb20",
+      "stylistId": "04b3391b-2d01-4fc7-851c-02af2525fde9",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "2b510587-0461-4612-9bb3-7cca912b9595",
+      "stylistId": "04b3391b-2d01-4fc7-851c-02af2525fde9",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "6abb9b6d-0478-4328-a65c-e4e89b61fe9e",
+      "stylistId": "2adbdb25-f4dd-429a-840e-7fb2486f6203",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "25684c42-8723-40dd-8a20-5e126b858b50",
+      "stylistId": "2adbdb25-f4dd-429a-840e-7fb2486f6203",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "c450fcd3-6751-4042-a514-56b3a1ad7f87",
+      "stylistId": "2adbdb25-f4dd-429a-840e-7fb2486f6203",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "2b88cd74-df6b-4031-897c-e591e060d3ad",
+      "stylistId": "a7d00054-d996-41e8-9380-7c504f382ebe",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "f4603ed2-db3f-475e-8175-2b2056bcb838",
+      "stylistId": "a7d00054-d996-41e8-9380-7c504f382ebe",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "b848ceb2-f894-4985-b544-25e8f2618967",
+      "stylistId": "a7d00054-d996-41e8-9380-7c504f382ebe",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "33ad0cfc-8186-4a00-900c-1fe080641c62",
+      "stylistId": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "5c4510ca-7e62-4a1a-81b6-dfa6a4b9e692",
+      "stylistId": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "9c9a93aa-d081-4246-ba9c-ac243ac4ea3c",
+      "stylistId": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "5ab62c1e-4ff8-4057-86a7-8b0240263611",
+      "stylistId": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "7d153062-1ad0-415b-9d86-e6c1b4dcdcf9",
+      "stylistId": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "d17257bf-62ec-4397-937a-e8a285fb91df",
+      "stylistId": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "0fa5bc3e-72cb-420f-bc09-9fde87f70d21",
+      "stylistId": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "28212dbd-edcc-4e4b-8843-5c37d5a71d2f",
+      "stylistId": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "c226c99c-4492-43e2-901b-25a4807866b5",
+      "stylistId": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "d7b522ff-aa5a-4a34-9283-765561d6f43c",
+      "stylistId": "8e8b5926-0c75-419e-bd43-0c4c6f016672",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "a0c5b441-b5dc-47f9-a2f5-a6c3c37ed043",
+      "stylistId": "8e8b5926-0c75-419e-bd43-0c4c6f016672",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "ef026829-0647-4f44-a9b0-8e10658191a0",
+      "stylistId": "8e8b5926-0c75-419e-bd43-0c4c6f016672",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "c09fb59c-ba42-4411-aade-f3d7f4eea177",
+      "stylistId": "f0a77b81-4e9e-422e-acb0-8818dcfaabfe",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "9327c400-44b9-4314-a442-1e00383a8a51",
+      "stylistId": "f0a77b81-4e9e-422e-acb0-8818dcfaabfe",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "c2ea83fc-d4ae-4061-8d50-be73ed32ea5b",
+      "stylistId": "f0a77b81-4e9e-422e-acb0-8818dcfaabfe",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "097d37f6-44e4-4718-9a06-ac8745b1aa06",
+      "stylistId": "b94203ee-4c1d-4c78-8e02-e824e76e449c",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "e6a2c568-5faf-455e-8bf2-5e7911fffaad",
+      "stylistId": "b94203ee-4c1d-4c78-8e02-e824e76e449c",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "8d82739e-0995-4585-8705-938c089f41f6",
+      "stylistId": "b94203ee-4c1d-4c78-8e02-e824e76e449c",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "763897b3-f594-4f35-9ca0-8afb695069a3",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "450",
+      "durationMinutes": 60
+    },
+    {
+      "id": "96eee767-58e3-4e71-84bd-c6ceda504b47",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "550",
+      "durationMinutes": 60
+    },
+    {
+      "id": "7de3283e-06ac-4366-9941-882a2fb302b9",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "700",
+      "durationMinutes": 60
+    },
+    {
+      "id": "af90792a-24c0-48fd-aca6-2177f7968f65",
+      "stylistId": "3664d7f2-e65e-4ca6-9f92-63b6883d9961",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "a3d1082c-fd25-4834-871f-cca9702441b5",
+      "stylistId": "3664d7f2-e65e-4ca6-9f92-63b6883d9961",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "251e101d-5a4b-4491-b9a9-c7b4748c1ae4",
+      "stylistId": "3664d7f2-e65e-4ca6-9f92-63b6883d9961",
+      "categoryId": "ad09fb23-aa0b-440a-81d0-a04babe55651",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "9e9fb8f7-900f-4e80-9b0e-e4f5e6c5f39d",
+      "stylistId": "2adbdb25-f4dd-429a-840e-7fb2486f6203",
+      "categoryId": "f36940c7-4d09-4502-a2a5-f849e006e165",
+      "serviceId": "276ee5b8-f7da-4727-91f9-cac39ed5526a",
+      "price": "250",
+      "durationMinutes": 60
+    },
+    {
+      "id": "6c486481-ac3b-4705-9025-043222775514",
+      "stylistId": "f0a77b81-4e9e-422e-acb0-8818dcfaabfe",
+      "categoryId": "f36940c7-4d09-4502-a2a5-f849e006e165",
+      "serviceId": "276ee5b8-f7da-4727-91f9-cac39ed5526a",
+      "price": "250",
+      "durationMinutes": 60
+    },
+    {
+      "id": "fcf5994e-c50c-446d-8b22-823f401f3758",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "f36940c7-4d09-4502-a2a5-f849e006e165",
+      "serviceId": "276ee5b8-f7da-4727-91f9-cac39ed5526a",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "ef0f2aab-0f93-4e76-8647-988a89adc002",
+      "stylistId": "536920fa-fc86-4349-9eb8-0a5ffd234fdc",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "350",
+      "durationMinutes": 60
+    },
+    {
+      "id": "afe31908-4533-4fa7-8aef-458b7f798bbf",
+      "stylistId": "536920fa-fc86-4349-9eb8-0a5ffd234fdc",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "bda6068d-a63e-473c-938d-9025276e0cbf",
+      "stylistId": "536920fa-fc86-4349-9eb8-0a5ffd234fdc",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "84a2dbd7-bcc2-499d-b07c-9cc2aa364a48",
+      "stylistId": "a7d00054-d996-41e8-9380-7c504f382ebe",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "faddf88d-66f9-4c01-a3f4-7b0839b11a29",
+      "stylistId": "a7d00054-d996-41e8-9380-7c504f382ebe",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "d836fb93-20e0-4df8-b334-0817f34694de",
+      "stylistId": "a7d00054-d996-41e8-9380-7c504f382ebe",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "350",
+      "durationMinutes": 60
+    },
+    {
+      "id": "bbccb97d-c555-4e6d-a9e6-324091251667",
+      "stylistId": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "b60a254c-ad52-45b7-a868-8ee717489eb4",
+      "stylistId": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "e48e82f9-1b70-4a94-8a52-e8d9429c80b4",
+      "stylistId": "f1d3785f-55d0-480b-b87e-fce7e24ed6c9",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "2be23d6c-9df4-451f-b60a-bad48ecedd24",
+      "stylistId": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "30c0bbe3-4b6b-4de5-9604-1ca96e6348e0",
+      "stylistId": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "a2db4c96-6e30-447b-aa19-5760cc9a8b70",
+      "stylistId": "57e756e6-5ec6-4bf4-9b2e-2a2de9401326",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "bbac9492-09fc-4ab2-b087-809527713e68",
+      "stylistId": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "350",
+      "durationMinutes": 60
+    },
+    {
+      "id": "f42c99a9-9b76-4352-b00a-2363b4063125",
+      "stylistId": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "95643e1c-24c7-458c-b246-1da0b50ebcb5",
+      "stylistId": "0c907145-c23e-408e-bbae-e1fa182f747f",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "cf2c39c3-3073-423b-a1c1-03c06a4c9b64",
+      "stylistId": "8e8b5926-0c75-419e-bd43-0c4c6f016672",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "bcbdf394-09ef-4aa8-bc93-d5489b7f603e",
+      "stylistId": "8e8b5926-0c75-419e-bd43-0c4c6f016672",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "9c98bb07-473e-424a-b3af-d6840c1b76bd",
+      "stylistId": "8e8b5926-0c75-419e-bd43-0c4c6f016672",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "df678ffb-4e78-4a56-8f25-1c18e18d01d8",
+      "stylistId": "b94203ee-4c1d-4c78-8e02-e824e76e449c",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "300",
+      "durationMinutes": 60
+    },
+    {
+      "id": "3cde36f5-677d-46f8-8f5b-1cb6ef642838",
+      "stylistId": "b94203ee-4c1d-4c78-8e02-e824e76e449c",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "400",
+      "durationMinutes": 60
+    },
+    {
+      "id": "239ba0bf-f058-4a80-be09-1ef6f75007f6",
+      "stylistId": "b94203ee-4c1d-4c78-8e02-e824e76e449c",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "7ca54d42-0193-4459-b71c-88893d45f409",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "60cb238f-a7f8-48ce-878f-0885e6caaa44",
+      "price": "450",
+      "durationMinutes": 60
+    },
+    {
+      "id": "0c4dfd55-540a-411d-8f4d-4cfb8ebb499e",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "459561b7-5913-4772-93d9-0904b2df541b",
+      "price": "500",
+      "durationMinutes": 60
+    },
+    {
+      "id": "3be8db93-e253-4ee0-acce-0ae69089ed0b",
+      "stylistId": "a3ea3461-5fd6-4afb-992c-c074fccbe768",
+      "categoryId": "3c5819b1-1d91-4353-992e-a172fc354fd5",
+      "serviceId": "092bb479-fcfb-46d3-b319-8c7897570d04",
+      "price": "600",
+      "durationMinutes": 60
+    }
+  ],
+  "availability": [],
+  "bookings": [],
+  "payments": [],
+  "chatbotKnowledge": [],
+  "salonSettings": [
+    {
+      "id": "def41897-5165-4a4c-bd79-edb3cb8dea58",
+      "salonName": "Victoria Braids & Weaves",
+      "address": "1300 Stuyvesant Ave., Union, NJ 07083, United States",
+      "phone": "+1 201-349-3990",
+      "email": "admin@victoriabraids.com",
+      "businessHours": {
+        "friday": {
+          "end": "22:00",
+          "start": "09:00",
+          "isOpen": true
+        },
+        "monday": {
+          "end": "22:00",
+          "start": "09:00",
+          "isOpen": true
+        },
+        "sunday": {
+          "end": "22:00",
+          "start": "09:00",
+          "isOpen": true
+        },
+        "tuesday": {
+          "end": "22:00",
+          "start": "09:00",
+          "isOpen": true
+        },
+        "saturday": {
+          "end": "22:00",
+          "start": "09:00",
+          "isOpen": true
+        },
+        "thursday": {
+          "end": "22:00",
+          "start": "09:00",
+          "isOpen": true
+        },
+        "wednesday": {
+          "end": "22:00",
+          "start": "09:00",
+          "isOpen": true
+        }
+      },
+      "logoUrl": "https://res.cloudinary.com/dfibvxrcd/image/upload/v1767970819/salon-settings/jqkmvvxwvyoix4sodv82.png",
+      "depositAmount": "50",
+      "notificationsEnabled": true,
+      "updatedAt": "2026-01-09T15:00:56.786Z"
+    }
+  ],
+  "notifications": []
+}

@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+
+# Build output
+dist/
+
+# Env files
+.env
+.env.local
+.env.production
+
+# Prisma
+prisma/dev.db
+
+# OS
+.DS_Store
